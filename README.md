@@ -16,6 +16,22 @@ Một trang web quà tặng lãng mạn, chạy thuần HTML/CSS/JS. Không cầ
 - **Thả đèn ước nguyện**: nhập điều ước, đèn bay lên trời.
 - Giao diện responsive cho điện thoại, tôn trọng `prefers-reduced-motion`.
 
+## Ảnh minh hoạ
+
+Chụp trên điện thoại (390×844) với dữ liệu placeholder.
+
+| Mở quà | Lời chúc mở đầu | Hái hoa |
+|:--:|:--:|:--:|
+| <img src="docs/screenshots/01-intro.png" width="220"> | <img src="docs/screenshots/02-hero.png" width="220"> | <img src="docs/screenshots/03-flowers.png" width="220"> |
+
+| Album polaroid | Câu đố | Lá thư |
+|:--:|:--:|:--:|
+| <img src="docs/screenshots/04-gallery.png" width="220"> | <img src="docs/screenshots/05-quiz.png" width="220"> | <img src="docs/screenshots/06-letter.png" width="220"> |
+
+| Thả đèn ước nguyện |
+|:--:|
+| <img src="docs/screenshots/07-lantern.png" width="220"> |
+
 ## Cấu trúc thư mục
 
 ```
@@ -24,6 +40,7 @@ Một trang web quà tặng lãng mạn, chạy thuần HTML/CSS/JS. Không cầ
 ├── config.js      # TOÀN BỘ nội dung cần thay, sửa file này
 ├── images/        # Ảnh album (mẫu là SVG placeholder)
 ├── mp3/           # Đặt music.mp3 vào đây (tuỳ chọn)
+├── docs/screenshots/  # Ảnh minh hoạ dùng trong README
 └── README.md
 ```
 
