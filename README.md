@@ -31,8 +31,8 @@ Một trang web quà tặng lãng mạn, chạy thuần HTML/CSS/JS. Không cầ
 
 1. Clone repo:
    ```bash
-   git clone git@github.com:vuongqtvn/template-valentine.git
-   cd template-valentine
+   git clone git@github.com:vuongqtvn/template-20-10.git
+   cd template-20-10
    ```
 2. Mở `config.js` và sửa các biến (xem bảng bên dưới).
 3. Thêm ảnh vào `images/`, nhạc vào `mp3/music.mp3` (nếu muốn).
